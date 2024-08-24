@@ -1,2 +1,2 @@
 # To-Do-List
-To-Do List using HTML, CSS and Javascript
+To-Do List made using HTML, CSS and Javascript.
